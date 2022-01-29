@@ -7,13 +7,7 @@ Bana göre v13 çok iyi değil fakat merakımdan v13 kurdum ve menü + slash kom
 # Star + forklarsanız sevinirim, **10 starda yeni altyapı!**
 
 # ⭐ Görseller;
-![x](https://cdn.discordapp.com/attachments/926175473984212992/927197226835513495/unknown.png)
-![y](https://cdn.discordapp.com/attachments/926175473984212992/927197270024257586/unknown.png)
-![z](https://cdn.discordapp.com/attachments/926175473984212992/927197437024669726/unknown.png)
-![a](https://cdn.discordapp.com/attachments/926175473984212992/927197467110408263/unknown.png)
-![b](https://cdn.discordapp.com/attachments/926175473984212992/927197512761221130/unknown.png)
-![c](https://cdn.discordapp.com/attachments/926175473984212992/927197577429012530/unknown.png)
-![d](https://cdn.discordapp.com/attachments/926175473984212992/927197708064813056/unknown.png)
+
 
 # ✏️ MIT LISENCE
 
